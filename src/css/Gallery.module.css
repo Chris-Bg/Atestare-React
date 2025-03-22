@@ -1,0 +1,16 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(5, 150px);
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+.winMessage {
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    color: #03222c;
+    margin-top: 20px;
+}
